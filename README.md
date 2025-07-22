@@ -1,1 +1,2 @@
-<img src="http://freecomputeradvice.net/wp-content/uploads/2019/11/kali-preview-boot.gif" alt="Kali Linux Boot Preview" width="600"/>
+## Preview
+[![GUI](https://sagar040.github.io/archives/data/proot-distro-nethunter/images/gui.gif)](https://sagar040.github.io/archives/data/proot-distro-nethunter/images/gui.gif)
