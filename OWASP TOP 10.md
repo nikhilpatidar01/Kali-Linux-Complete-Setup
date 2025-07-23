@@ -1,6 +1,6 @@
 # 🛡️ OWASP - Open Worldwide Application Security Project
 
-OWASP stands for Open Worldwide Application Security Project (formerly Open Web Application Security Project). It is a non-profit foundation focused on improving the security of software through community-led open-source projects, educational resources, and standardized frameworks.
+OWASP stands for **Open Worldwide Application Security Project** (formerly Open Web Application Security Project). It is a non-profit foundation focused on improving the security of software through community-led open-source projects, educational resources, and standardized frameworks.
 
 ---
 
@@ -222,8 +222,8 @@ The **OWASP Top 10 (2017)** is a list of the most critical web application secur
 
 **Impact:**
 > Data loss, corruption, or full system compromise.
-> *"Code injection occurs when attackers send malicious input to execute unintended commands."*
 
+> *"Code injection occurs when attackers send malicious input to execute unintended commands."*
 ---
 
 ## 🔑 A2 — Broken Authentication
@@ -233,6 +233,7 @@ The **OWASP Top 10 (2017)** is a list of the most critical web application secur
 
 **Impact:**
 > Account takeover, privilege escalation, or full system access.
+
 > *"Allows attackers to impersonate users or gain unauthorized access."*
 
 ---
@@ -244,6 +245,7 @@ The **OWASP Top 10 (2017)** is a list of the most critical web application secur
 
 **Impact:**
 > Data theft and compliance violations (e.g., GDPR, HIPAA).
+
 > *"Failure to encrypt or securely store sensitive information."*
 
 ---
@@ -255,6 +257,7 @@ The **OWASP Top 10 (2017)** is a list of the most critical web application secur
 
 **Impact:**
 > Internal file disclosure, SSRF, and remote code execution.
+
 > *"Vulnerable XML processing can leak internal files or access internal systems."*
 
 ---
@@ -266,6 +269,7 @@ The **OWASP Top 10 (2017)** is a list of the most critical web application secur
 
 **Impact:**
 > Unauthorized access to functions or data.
+
 > *"Attackers can access unauthorized resources or perform privileged actions."*
 
 ---
@@ -277,6 +281,7 @@ The **OWASP Top 10 (2017)** is a list of the most critical web application secur
 
 **Impact:**
 > System compromise, information leakage, or lateral movement.
+
 > *"Poorly configured servers, frameworks, or apps make easy targets."*
 
 ---
@@ -288,6 +293,7 @@ The **OWASP Top 10 (2017)** is a list of the most critical web application secur
 
 **Impact:**
 > Session hijacking, defacement, phishing, or malware delivery.
+
 > *"Client-side code injection via input that isn't properly sanitized."*
 
 ---
@@ -299,6 +305,7 @@ The **OWASP Top 10 (2017)** is a list of the most critical web application secur
 
 **Impact:**
 > Denial of Service (DoS), privilege escalation, or injection attacks.
+
 > *"Unsafe deserialization can allow attackers to control application flow."*
 
 ---
@@ -310,6 +317,7 @@ The **OWASP Top 10 (2017)** is a list of the most critical web application secur
 
 **Impact:**
 > Full system compromise, especially when components have high privileges.
+
 > *"Your app is only as secure as the components it uses."*
 
 ---
@@ -321,6 +329,7 @@ The **OWASP Top 10 (2017)** is a list of the most critical web application secur
 
 **Impact:**
 > Undetected breaches and delayed incident response.
+
 > *"Without visibility, malicious activities go unnoticed."*
 
 ---
@@ -450,7 +459,7 @@ The **OWASP Top 10 - 2013** identifies the most critical web application risks, 
 > Usage of outdated or vulnerable third-party components.
 
 **Examples:**
-* Old Apache Struts or jQuery versions
+* Using an old version of Apache Struts or jQuery
 * Unpatched CMS plugins
 
 **Impact**
@@ -464,7 +473,7 @@ The **OWASP Top 10 - 2013** identifies the most critical web application risks, 
 > Applications redirect or forward users to untrusted URLs without validation.
 
 **Examples:**
-* Redirects using query parameters
+* Redirecting to a URL from a query parameter
 
 **Impact**
 > *"Can be used for phishing or redirecting to malicious sites."*
