@@ -15,3 +15,13 @@
 
 ---
 
+## 🤝 Contributing
+
+Contributions are always welcome!  
+Whether it's fixing bugs, improving documentation, or adding new features — your input helps the community grow.
+
+<a href="https://github.com/nikhilpatidar01/Kali-Linux-Complete-Setup/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nikhilpatidar01/Kali-Linux-Complete-Setup" />
+</a>
+
+---
