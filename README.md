@@ -22,4 +22,5 @@ Your help in improving the documents and making them more valuable is always app
 <a href="https://github.com/nikhilpatidar01/Kali-Linux-Complete-Setup/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=nikhilpatidar01/Kali-Linux-Complete-Setup" />
 </a>
+
 ---
